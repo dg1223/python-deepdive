@@ -1,7 +1,7 @@
 Python Deep Dive
 ================
 
-Various Jupyter notebooks and Python sources associated with my Udemy Python 3 Deep Dive course series:
+Various Jupyter notebooks and Python sources associated with the Udemy Python 3 Deep Dive course series:
 
 - [Part 1](https://www.udemy.com/course/python-3-deep-dive-part-1/?referralCode=E46B931C71EE01845062/): Mainly functional programming
 - [Part 2](https://www.udemy.com/course/python-3-deep-dive-part-2/?referralCode=3E7AFEF5174F04E5C8D4/): Mainly iterables, iterators and generators
